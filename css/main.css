@@ -48,3 +48,28 @@ list-style:none;
 padding:5px;
 font:bold 14px Tahoma;
 }
+
+#main_section
+{
+float:left;
+width:660px;
+margin:30px; /* to jest komentarz 1000-660-30-30=280*/
+
+}
+
+#side_news
+{
+float:left;
+width:220px;
+margin:20px 0px;
+padding:30px;
+background:#66cccc;
+}
+
+#stopka
+{
+clear:both;
+text-align:center;
+padding:20px;
+border-top:2px solid green;
+}
