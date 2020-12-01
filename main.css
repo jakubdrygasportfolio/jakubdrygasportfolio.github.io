@@ -1,0 +1,87 @@
+*{
+margin:0px; s
+padding:0px;
+}
+h1{
+
+font:bold 20px Tahoma;
+}
+h2{
+font:bold 14px Tahoma;
+}
+
+header, section, footer, aside, nav, article, hgroup
+{
+display:block;
+}
+
+body{
+
+text-align:center;
+}
+
+#cz_glowna
+{    
+	text-align:center;
+	width:1000px;
+	height: 400px;
+	background-color: white;
+	color:black;
+	margin:20px auto;
+	font:bold 20px Tahoma;
+}
+
+#top_header
+{
+background:green;
+border:3px solid black;
+padding:20px;
+font-size:48px;
+text-align:center;
+}
+
+#top_men
+{
+background:gray;
+color:black;
+padding:20px;
+text-align:center;
+border:3px solid black;
+border-style: ridge ;
+}
+
+
+#top_men li
+{
+display:inline-block;
+list-style:none;
+padding:20px;
+font:bold 28px Tahoma;
+}
+
+#main_section
+{
+	width:auto;
+	height:400px;
+	background-color:white;
+	color:black;
+	font-size:40px;
+	border:3px solid black;
+
+}
+
+#side_news
+{
+float:center;
+width:auto;
+padding:30px;
+background:green;
+border:3px solid black;
+}
+
+#stopka
+{
+clear:both;
+text-align:center;
+padding:20px;
+}
