@@ -21,49 +21,62 @@ text-align:center;
 }
 
 #cz_glowna
-{
-border:1px solid black;
-width:1000px;
-margin:20px auto;
-text-align:left;
+{    
+	text-align:center;
+	width:1000px;
+	height: 400px;
+	background-color: white;
+	color:black;
+	margin:20px auto;
+	font:bold 20px Tahoma;
 }
 
 #top_header
 {
-background:yellow;
-border:1px solid blue;
+background:green;
+border:3px solid black;
 padding:20px;
+font-size:48px;
+text-align:center;
 }
 
 #top_men
 {
-background:blue;
-color:white;
+background:gray;
+color:black;
+padding:20px;
+text-align:center;
+border:3px solid black;
+border-style: ridge ;
 }
+
 
 #top_men li
 {
 display:inline-block;
 list-style:none;
-padding:5px;
-font:bold 14px Tahoma;
+padding:20px;
+font:bold 28px Tahoma;
 }
 
 #main_section
 {
-float:left;
-width:660px;
-margin:30px; /* to jest komentarz 1000-660-30-30=280*/
+	width:auto;
+	height:400px;
+	background-color:white;
+	color:black;
+	font-size:40px;
+	border:3px solid black;
 
 }
 
 #side_news
 {
-float:left;
-width:220px;
-margin:20px 0px;
+float:center;
+width:auto;
 padding:30px;
-background:#66cccc;
+background:green;
+border:3px solid black;
 }
 
 #stopka
@@ -71,5 +84,4 @@ background:#66cccc;
 clear:both;
 text-align:center;
 padding:20px;
-border-top:2px solid green;
 }
