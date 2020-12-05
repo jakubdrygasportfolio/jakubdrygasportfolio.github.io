@@ -10,6 +10,10 @@ h2{
 font:bold 14px Tahoma;
 }
 
+h3{
+font:bold 40px Tahoma;
+}
+
 header, section, footer, aside, nav, article, hgroup
 {
 display:block;
@@ -23,8 +27,8 @@ text-align:center;
 #cz_glowna
 {    
 	text-align:center;
-	width:1000px;
-	height: 400px;
+	width:1500px;
+	height: auto;
 	background-color: white;
 	color:black;
 	margin:20px auto;
@@ -62,13 +66,15 @@ font:bold 28px Tahoma;
 #main_section
 {
 	width:auto;
-	height:400px;
+	height:auto;
 	background-color:white;
 	color:black;
 	font-size:40px;
 	border:3px solid black;
 
 }
+
+
 
 #side_news
 {
@@ -79,9 +85,149 @@ background:green;
 border:3px solid black;
 }
 
+#side_news1
+{
+float:center;
+width:auto;
+padding:30px;
+background:white;
+}
+
+#side_news2
+{
+float:center;
+width:auto;
+height:200px;
+padding:30px;
+background:green;
+border:3px solid black;
+}
+
+#side_news3
+{
+float:center;
+width:auto;
+height:200px;
+padding:30px;
+background:white;
+}
+
+#side_news4
+{
+float:center;
+width:auto;
+height:300px;
+padding:30px;
+background:white;
+}
+
+#side_news5
+{
+float:center;
+width:auto;
+height:250px;
+padding:30px;
+background:green;
+}
+
+#side_news5
+{
+float:center;
+width:auto;
+height:300px;
+padding:30px;
+background:green;
+}
+
 #stopka
 {
 clear:both;
 text-align:center;
 padding:20px;
 }
+
+#daniszyn
+{
+	float: center;
+}
+#mahle{
+	float: left;
+}	
+	
+#modertrans{
+	
+	float: left;
+}	
+
+#cargo{
+	
+	float: left;
+}	
+#szafa{
+	
+	float: left;
+}	
+
+#znicz{
+	
+	float: left;
+}	
+
+#odbierak{
+	
+	float: left;
+}	
+#wim{
+	
+	float: left;
+}
+
+#arie{
+	float: left;
+}
+
+#zst{
+	float: left;
+}	
+
+#ender{
+	float: left;
+}	
+
+#gif{
+	float: right;
+}	
+
+#gif2{
+	float: left;
+}
+
+#puzzle{
+	float: left;
+}	
+
+#strand{
+	float: center;
+}	
+
+#tooth{
+	float: right;
+}	
+
+#factory{
+	float: right;
+}	
+
+#f{
+	float: left;
+}	
+
+#gmail{
+	float: left;
+}
+	
+#in{
+	float: left;
+}	
+
+
